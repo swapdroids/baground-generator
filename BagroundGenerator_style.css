@@ -1,0 +1,9 @@
+body{
+	background: linear-gradient(to right,red,green);
+	text-align: center;
+	font-family: sans-serif;
+	letter-spacing: 5px;
+	font-size: 20px;
+	color: rgba(0,0,0,0.5);
+}
+
